@@ -1,0 +1,7 @@
+D:\Projects\CodeForLab1\CodeForLab1\bin\Debug\CodeForLab1.exe.config
+D:\Projects\CodeForLab1\CodeForLab1\bin\Debug\CodeForLab1.exe
+D:\Projects\CodeForLab1\CodeForLab1\bin\Debug\CodeForLab1.pdb
+D:\Projects\CodeForLab1\CodeForLab1\obj\Debug\CodeForLab1.csprojResolveAssemblyReference.cache
+D:\Projects\CodeForLab1\CodeForLab1\obj\Debug\CodeForLab1.csproj.CoreCompileInputs.cache
+D:\Projects\CodeForLab1\CodeForLab1\obj\Debug\CodeForLab1.exe
+D:\Projects\CodeForLab1\CodeForLab1\obj\Debug\CodeForLab1.pdb
