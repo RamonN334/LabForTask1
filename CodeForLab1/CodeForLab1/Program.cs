@@ -37,6 +37,7 @@ namespace CodeForLab1
             float coeffAdmin = 1.5f;
             float coeffUser = 1.2f;
             return money * (int) coeffAdmin;
+            return money * (int)coeffUser;
         }
     }
 
